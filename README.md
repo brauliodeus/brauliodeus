@@ -45,6 +45,4 @@ Un sistema de gestión de encuestas para estudiantes.
 
 ### 📫 Contacto
 
-¿Quieres contactarme o colaborar?
-
 * 📧 **Email:** [braulio.palma05@gmail.com](mailto:braulio.palma05@gmail.com)
