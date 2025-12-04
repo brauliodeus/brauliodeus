@@ -26,11 +26,13 @@ Me gusta trabajar con tecnologías modernas y eficientes:
 
 ---
 
-### Proyecto Destacado (Realizado en equipo)
+### Proyectos Destacados (Realizados en equipo)
 **[SteamStorm](https://github.com/brauliodeus/SteamStorm)**
 Una plataforma Full Stack de gestión y reseñas de videojuegos con arquitectura híbrida.
 * **Tech:** Node.js, Express, PostgreSQL (Render).
 * **Features:** Auth JWT, Wishlist, Sistema de Reseñas y Consumo de API Steam.
+**[API-Centro-de-estudiantes](https://github.com/brauliodeus/API-Centro-de-estudiantes)**
+
 
 ---
 
