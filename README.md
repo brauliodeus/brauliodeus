@@ -32,7 +32,7 @@ Actualmente trabajo con estas tecnologias y herramientas:
 #### 🎮 [SteamStorm](https://github.com/brauliodeus/SteamStorm)
 Una plataforma Full Stack de gestión y reseñas de videojuegos con arquitectura híbrida.
 * **Tech:** Node.js, Express, PostgreSQL (Render).
-* **Features:** Auth JWT, Wishlist, Sistema de Reseñas y Consumo de API Steam.
+* **Features:** Auth JWT, Wishlist, Sistema de Reseñas, Chatbot IA y Consumo de API Steam.
 
 #### 🎓 [API-Centro-de-estudiantes](https://github.com/brauliodeus/API-Centro-de-estudiantes)
 API RESTful para la gestión segura de encuestas y votaciones estudiantiles.
