@@ -12,18 +12,16 @@ Actualmente enfocado en desarrollar habilidades sólidas en el ámbito del <b>Ba
 
 ### 🛠️ Stack Tecnológico
 
-Me gusta trabajar con tecnologías modernas y eficientes:
+Actualmente trabajo con estas tecnologias y herramientas:
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/SQL_%26_NoSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL & NoSQL" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
@@ -37,9 +35,9 @@ Una plataforma Full Stack de gestión y reseñas de videojuegos con arquitectura
 * **Features:** Auth JWT, Wishlist, Sistema de Reseñas y Consumo de API Steam.
 
 #### 🎓 [API-Centro-de-estudiantes](https://github.com/brauliodeus/API-Centro-de-estudiantes)
-Un sistema de gestión de encuestas para estudiantes.
-* **Tech:** JavaScript, Docker files, Redis, MongoDB Compass.
-* **Features:** Sistema de encuestas para estudiantes.
+API RESTful para la gestión segura de encuestas y votaciones estudiantiles.
+* **Tech:** Node.js, MongoDB, Redis, Docker & Swagger UI.
+* **Features:** Auth JWT con Roles, Caché de consultas, Documentación interactiva y Containerización completa.
 
 ---
 
