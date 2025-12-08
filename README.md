@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Braulio! 👋
 
-### 🚀 Desarrollador Backend en formación | Estudiante de Técnico en Informática
+### Desarrollador Backend en formación | Estudiante de Técnico en Informática
 
 <p>
 Actualmente enfocado en desarrollar habilidades sólidas en el ámbito del <b>Backend</b>, bases de datos y arquitectura de servidores.
