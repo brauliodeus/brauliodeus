@@ -2,15 +2,15 @@
 
 ###
 
-<p align="center">Actualmente enfocado en desarrollar habilidades sólidas en el ámbito del Backend, bases de datos y arquitectura de servidores.</p>
+<p align="left">Actualmente enfocado en desarrollar habilidades sólidas en el ámbito del Backend, bases de datos y arquitectura de servidores.</p>
 
 ###
 
-<h2 align="center">Desarrollador Backend en formación | Estudiante de Técnico en Informática</h2>
+<h2 align="center">Desarrollador Backend en formación | Estudiante de Técnico Universitario en Informática</h2>
 
 ###
 
-<p align="center">📚 Cursando Técnico en Informática<br>🎯 Meta de convertirme en Desarrollador Backend</p>
+<p align="left">🎯 Meta de convertirme en Desarrollador Backend<br>
 
 ###
 
