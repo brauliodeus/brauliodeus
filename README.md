@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Meta de convertirme en Desarrollador Backend<br>
+<p align="center">🎯 Meta de convertirme en Desarrollador Backend<br>
 
 ###
 
