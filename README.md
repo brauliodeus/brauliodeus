@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 Cursando tecnico en informatica en la univesidad catolica de temuco<br>🎯 Meta de convertirme en desarrollador backend</p>
+<p align="center">📚 Cursando Técnico en Informática<br>🎯 Meta de convertirme en Desarrollador Backend</p>
 
 ###
 
