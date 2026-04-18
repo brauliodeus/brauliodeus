@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">Actualmente enfocado en desarrollar habilidades sólidas en el ámbito del Backend, bases de datos y arquitectura de servidores.</p>
-
-###
-
-<h2 align="center">Estudiante de Técnico Universitario en Informática</h2>
+<p align="left">Estudiante de Técnico Universitario en Informática<, actualmente enfocado en desarrollar habilidades sólidas en el ámbito del Backend, bases de datos y arquitectura de servidores.</p>
 
 ###
 
