@@ -10,10 +10,6 @@
 
 ###
 
-<p align="center">🎯 Meta de convertirme en Desarrollador Backend<br>
-
-###
-
 <h2 align="center">Actualmente trabajando con estas herramientas</h2>
 
 ###
