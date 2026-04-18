@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Desarrollador Backend en formación | Estudiante de Técnico Universitario en Informática</h2>
+<h2 align="center">Estudiante de Técnico Universitario en Informática</h2>
 
 ###
 
