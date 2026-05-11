@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudiante de Técnico Universitario en Informática</p>
+<p align="center">Estudiante de Técnico Universitario en Informática</p>
 
 ###
 
