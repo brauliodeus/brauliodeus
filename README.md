@@ -11,40 +11,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
 ###
 
 ---
 
-### 💻 Proyectos Destacados (Realizados en equipo)
+### 💻 Proyectos Destacados
 
-#### 🎮 [SteamStorm](https://github.com/brauliodeus/SteamStorm)
-Una plataforma Full Stack de gestión y reseñas de videojuegos con arquitectura híbrida.
-* **Tech:** Node.js, Express, PostgreSQL (Render).
-* **Features:** Auth JWT, Wishlist, Sistema de Reseñas, Chatbot IA y Consumo de API Steam.
-
-#### 🎓 [API-Centro-de-estudiantes](https://github.com/brauliodeus/API-Centro-de-estudiantes)
-API RESTful para la gestión segura de encuestas y votaciones estudiantiles.
-* **Tech:** Node.js, MongoDB, Redis, Docker & Swagger UI.
-* **Features:** Auth JWT con Roles, Caché de consultas, Documentación interactiva y Containerización completa.
+#### [HTTP & Header Scanner](https://github.com/brauliodeus/http-scanner)
+Análisis pasivo automatizado en la capa de aplicación web (HTTP/S) enfocado en auditorías de seguridad, endurecimiento de infraestructura (Hardening) y validación de directivas seguras.
+* **Tech:** Python, VSCode.
+* **Features:** Banner Grabbing Detection, Session Cookie Auditor, Tratamiento seguro de datos.
 
 ---
 
